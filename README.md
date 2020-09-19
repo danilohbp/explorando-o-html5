@@ -1,6 +1,8 @@
-<center>
-  <img src="img/imagem-readme/html5.png" width="300px"/>
-</center>
+<div>
+  <center>
+    <img src="img/imagem-readme/html5.png" width="300px"/>
+  </center>
+</div>
 
 # Objetivo do projeto
 
