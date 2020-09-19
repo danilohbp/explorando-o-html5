@@ -1,3 +1,5 @@
+<img src="img/imagem-readme/html5.png"/>
+
 # Objetivo do projeto
 
 A ideia desse projeto é exercitar, conhecer e aprender mais sobre essa linguagem de marcação.
