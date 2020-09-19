@@ -1,1 +1,1 @@
-# Explorando o HTML 5 -alguns recursos!
+# Explorando alguns recursos do HTML 5
