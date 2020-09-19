@@ -1,4 +1,4 @@
-<img src="img/imagem-readme/html5.png"/>
+<img src="img/imagem-readme/html5.png" width="300px"/>
 
 # Objetivo do projeto
 
