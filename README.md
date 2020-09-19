@@ -2,7 +2,7 @@
 
 # Objetivo do projeto
 
-A ideia desse projeto é exercitar, conhecer e aprender mais sobre essa linguagem de marcação.
+A ideia desse projeto é exercitar, conhecer e aprender mais sobre a linguagem de marcação HTML 5. 
 
 ## Recursos Abordados
 
@@ -15,3 +15,5 @@ A ideia desse projeto é exercitar, conhecer e aprender mais sobre essa linguage
 - Símbolo
 - Iframe
 - Emojis
+
+## Recursos Não Abordados
